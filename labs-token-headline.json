@@ -1,11 +1,11 @@
 {
   "schema": "bubble-labs-token-headline/v1",
-  "updated_at": "2026-11-05T04:01:22.396636+00:00",
+  "updated_at": "2026-11-06T04:01:27.099932+00:00",
   "headline": {
-    "all_time_total": 61941480267,
-    "all_time_input_output": 272350413,
-    "this_year_total": 61941480267,
-    "this_month_total": 14705940170,
-    "this_month_input_output": 61749290
+    "all_time_total": 59336816397,
+    "all_time_input_output": 260727466,
+    "this_year_total": 59336816397,
+    "this_month_total": 19672451693,
+    "this_month_input_output": 82267529
   }
 }
